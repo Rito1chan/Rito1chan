@@ -1,5 +1,7 @@
 ### Hi, I'm Rito
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -19,3 +21,7 @@
 <a href="https://github.com/Rito1chan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rito1chan&count_private=true&show_icons=true&theme=tokyonight" >
 </a>
+
+## 🔎 Github views
+
+![](https://komarev.com/ghpvc/?username=Centurion360&color=3ea1fc)
