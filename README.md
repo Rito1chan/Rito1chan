@@ -29,8 +29,8 @@
 </a>
 
 #
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rito1chan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rito1chan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rito1chan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rito1chan" /></p>
 
 ## 🔎 Github views
 
-![](https://komarev.com/ghpvc/?username=Centurion360&color=3ea1fc)
+![](https://komarev.com/ghpvc/?username=Rito1chan&color=3ea1fc)
