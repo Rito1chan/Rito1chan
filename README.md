@@ -1,4 +1,4 @@
-### Hi, I'm Rito
+### 👋🏼Hi, I'm Rito
 
 #
 
@@ -8,7 +8,9 @@
 <br />
 
 #
-<h3 align="left">Connect with me:</h3>
+
+## 📞Connect with me
+
 <p align="left">
 <a href="https://www.instagram.com/rito1chan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
