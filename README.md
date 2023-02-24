@@ -13,8 +13,9 @@
 
 ## 📞Connect with me
 
-<p align="left">
-<a href="https://www.instagram.com/rito1chan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<p>
+<a href="https://discord.com/users/486189969011113984" target="blank"><img alt="discord" style="padding-right:25px;" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.instagram.com/rito1chan/" target="blank"><img alt="ig " style="padding-right:25px;" src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 #
