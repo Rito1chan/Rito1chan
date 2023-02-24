@@ -4,7 +4,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js,html,css,php,figma,androidstudio,git,java"/>
+<img align="left" alt="Java" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html,css,js,php,figma,androidstudio,git,java"/>
 <br />
 
 #
