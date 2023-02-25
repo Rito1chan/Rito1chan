@@ -1,5 +1,5 @@
 ### 👋🏼Hi, I'm Rito
-<pMy name is Mikołaj, 16 years old. I'm from Poland, and I'm learning web development since 2021.</p>
+<p>My name is Mikołaj, 16 years old. I'm from Poland, and I'm learning web development since 2021.</p>
 <p>Have a look at my works, maybe they will help u with your site or make your website morebeautiful.</p>
 
 #
