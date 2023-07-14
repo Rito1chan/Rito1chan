@@ -32,3 +32,5 @@
 ## 🔎 Github views
 
 ![](https://komarev.com/ghpvc/?username=Rito1chan&color=3ea1fc)
+
+https://www.credly.com/badges/0548f500-3df6-4fc2-84b2-46b67fc0b4bb/public_url
